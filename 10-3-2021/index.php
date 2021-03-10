@@ -26,7 +26,7 @@
                       <a class="nav-link" href="responsive.php">Responsive</a>
                     </li>
                     <li class="nav-item">
-                      <a class="nav-link" href="responsivelr.html">Responsive Login Reg</a>
+                      <a class="nav-link" href="responsivelr.php">Responsive Login Reg</a>
                     </li>
                     
                   </ul>
